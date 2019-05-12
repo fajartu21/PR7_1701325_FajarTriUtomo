@@ -1,0 +1,36 @@
+Waktu: 12:00 - 23:59 WIB, 8 April 2019
+Pengumpulan: email ke akhmad.98@outlook.com dengan Subject: UTS_NIM_Nama
+tampilan boleh diubah, diperbagus, tetapi pastikan bahwa aplikasi sudah bisa dijalankan fungsi-fungsi intinya.
+
+Tampilan Pemesan
+pada Daftar Menu, terdapat aksi "Pesan!" yang akan memasukan list yang dipilih ke menu Daftar Pesanan.
+ketika pesanan sudah dibuat, munculkan total pesanan dan ada tombol pesan dan bayar, yang akan mengarah ke Menu Rincian Pemesanan.
+pada Menu Rincian Pemesanan, akan muncul ID Pemesanan untuk pemesanan tersebut yang akan dicek oleh kasir sebelum dibayar, kode ini akan diinput oleh kasir.
+
+Tampilan kasir
+pada Daftar Menu, terdapat Aksi yang dapat menambah daftar menu, update menu, dan delete menu.
+pada menu Pembayaran, terdapat form untuk input ID Pemesanan ketika Cek Pesanan di klik, akan muncul list dari pesanan yang sesuai dengan id pesanan itu.
+lalu ada tombol Dibayar, sebelum pesanan diteruskan ke dapur, pemesan harus membayar terlebih dahulu pesanannya.
+ketika tombol Dibayar sudah ditekan, maka menu Daftar Pesanan dan Rincian Pemesanan dari tampilan pemesan akan direset.
+
+aspek penilaian
+- Orisinalitas
+- Fungsional
+- Efektifitas
+- Efisiensi
+
+Soal
+- tambahkan Nama dan NIM pada about us (10)
+- login untuk kasir dan pemesan (10)
+- method daftar menu, daftar pemesanan (20)
+- setelah daftar pemesanan, maka rincian pemesanan dan kode pemesanan akan muncul untuk di input oleh kasir (20)
+- CRUD daftar menu hanya untuk kasir (10)
+- verifikasi kode pemesanan, tampilkan juga pesanannya apa saja di tampilan kasir (30)
+
+Bonus
+- login multiuser pada 1 form yang sama (10)
+- menu register untuk user pemesanan (10)
+
+Segala bentuk copy paste codingan akan ada pengurangan nilai.
+manfaatkan User Guide (Dokumentasi) Codeigniter untuk fungsi-fungsi bawaan CI, Dokumentasi Bootstrap untuk tampilan, php.net atau w3schools untuk fungsi dari php sendiri, stackoverflow, google untuk kesulitan yang dihadapi, jika masih tidak mengerti, bisa kontak salah satu asprak promnet...
+tambahkan juga file kesulitan.txt untuk kesulitan yang dihadapi selama mengerjakan.

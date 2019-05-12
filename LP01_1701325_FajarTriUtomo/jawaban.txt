@@ -1,0 +1,14 @@
+Jelaskan perbedaan Left Join, Right Join, dan Inner Join! (simpan jawaban dengan membuat file jawaban.txt, 
+dan letakkan di luar folder Appication pada CodeIgniter) 
+
+jawab: 
+-INER JOIN yaitu sebuah perintah yang digunakan untuk menampilkan sebuah data atau record dengan menghubungkan dua table atau lebih dalam satu perintah, 
+pada perintah inner join data yang akan ditampilkan hanyalah data yang memiliki pasangan saja, 
+maksudnya yaitu data pada table tidak memiliki sebuah kesamaan maka data tidak akan ditampilkan.
+-RIGHT JOIN, fungsi dari right join hampir sama dengan inner join namun pada right join akan membuat sebuah parameter pada sebelah kanan 
+jika data pada table terdapat data atau record yang kosong atau tidak berelasi maka akan berisi NULL. 
+-LEFT JOIN, fungsi dari left join hampir sama dengan inner join dan right join, 
+namun pada LEFT JOIN kebalikan dari RIGHT JOIN, jika pada right join akan membuat sebuah parameter di sebelah kanan namun pada left 
+join akan membuat sebuah parameter dari table sebelah kiri,
+dan jika ada data atau record yang kosong atau tidak berelasi maka akan berisi NULL di sebelah kanan.
+
